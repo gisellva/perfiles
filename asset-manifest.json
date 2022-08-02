@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/uso-de-efecto-/static/css/main.e5904c02.css",
+    "main.js": "/uso-de-efecto-/static/js/main.b1eda124.js",
+    "index.html": "/uso-de-efecto-/index.html",
+    "main.e5904c02.css.map": "/uso-de-efecto-/static/css/main.e5904c02.css.map",
+    "main.b1eda124.js.map": "/uso-de-efecto-/static/js/main.b1eda124.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5904c02.css",
+    "static/js/main.b1eda124.js"
+  ]
+}
